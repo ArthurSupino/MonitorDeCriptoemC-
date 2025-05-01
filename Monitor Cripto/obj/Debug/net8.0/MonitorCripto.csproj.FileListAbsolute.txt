@@ -1,0 +1,14 @@
+/home/arthur/Documents/POO2/AtvAssinc/bin/Debug/net8.0/MonitorCripto
+/home/arthur/Documents/POO2/AtvAssinc/bin/Debug/net8.0/MonitorCripto.deps.json
+/home/arthur/Documents/POO2/AtvAssinc/bin/Debug/net8.0/MonitorCripto.runtimeconfig.json
+/home/arthur/Documents/POO2/AtvAssinc/bin/Debug/net8.0/MonitorCripto.dll
+/home/arthur/Documents/POO2/AtvAssinc/bin/Debug/net8.0/MonitorCripto.pdb
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/MonitorCripto.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/MonitorCripto.AssemblyInfoInputs.cache
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/MonitorCripto.AssemblyInfo.cs
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/MonitorCripto.csproj.CoreCompileInputs.cache
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/MonitorCripto.dll
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/refint/MonitorCripto.dll
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/MonitorCripto.pdb
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/MonitorCripto.genruntimeconfig.cache
+/home/arthur/Documents/POO2/AtvAssinc/obj/Debug/net8.0/ref/MonitorCripto.dll

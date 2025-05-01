@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSeLMJhRmek=",
+  "success": true,
+  "projectFilePath": "/home/arthur/Documents/POO2/AtvAssinc/MonitorCripto.csproj",
+  "expectedPackageFiles": [
+    "/home/arthur/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/arthur/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/arthur/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.14/microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
